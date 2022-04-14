@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236981785535",
+    "firebase_url": "https://emojichat-e9025-default-rtdb.firebaseio.com",
+    "project_id": "emojichat-e9025",
+    "storage_bucket": "emojichat-e9025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236981785535:android:27087fb09fc44e7af8070a",
+        "android_client_info": {
+          "package_name": "com.example.emoji_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236981785535-3h3tl7c1o7as7vil035870neomstarmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emoji_chat",
+            "certificate_hash": "1ab6454662345072bcfb6b0b8392c2c652e93fbe"
+          }
+        },
+        {
+          "client_id": "236981785535-vskva92jngog38rj7m2494587lrvkror.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEChYF5z_YxxBd5r_1cyf-7UBlUdf1vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236981785535-vskva92jngog38rj7m2494587lrvkror.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
